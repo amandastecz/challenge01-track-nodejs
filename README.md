@@ -9,4 +9,4 @@
 - [X] Deve ser possível excluir um *todo*;
 
 ### Tests
-- [] Passed
+- [X] All passed
