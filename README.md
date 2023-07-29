@@ -1,12 +1,12 @@
-## DESAFIO 01 - Exercitando conceitos do Node.js
+## CHALLENGE 01 - Exercising Node.js concepts
 
-### Requisitos
-- [X] Deve ser possível criar um usuário com `name` e `username`;
-- [X] Deve ser possível criar um novo *todo*;
-- [X] Deve ser possível lListar todos os *todos*;
-- [X] Deve ser possível alterar o `title` e `deadline` de um *todo* existente;
-- [X] Deve ser possível marcar um *todo* como feito;
-- [X] Deve ser possível excluir um *todo*;
+### Requirements
+- [X] It must be possible to create a user with `name` and `username`;
+- [X] It must be possible to create a new *todo*;
+- [X] It must be possible to list all *all*;
+- [X] It must be possible to change the `title` and `deadline` of an existing *todo*;
+- [X] It must be possible to mark a *todo* as done;
+- [X] It must be possible to delete a *todo*;
 
 ### Tests
 - [X] All passed
